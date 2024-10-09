@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3649cc48-c080-4385-9649-3525357e2694" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CMAPPS using XGBOOST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yearlydata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accuracy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/federated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model_new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rulpred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualize2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualize4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visulaize3.py" afterDir="false" />
-    </list>
+    <list default="true" id="3649cc48-c080-4385-9649-3525357e2694" name="Changes" comment="Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +92,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726147187440</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1728498426063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728498426063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
